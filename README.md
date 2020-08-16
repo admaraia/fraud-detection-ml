@@ -39,5 +39,5 @@ O repositório está dividido em 3 scripts, criados pela ferramenta Jupyter Note
 <ul>
 <li>Script para tratamento de dados: Contempla as análises sobre a melhor forma de tratar os dados e o que foi considerado para a escolha das técnicas;</li>
 <li>Script para exploração de dados: Contempla as análises das features disponíveis nas bases;</li>
-<li>Script para aplicação dos modelos de machine larning: Após tratamento dos dados e escolha das features, nesse script há a aplicação dos modelos de Machine Learning e a avaliação de métricas dos mesmos.</li>
+<li>Script para aplicação dos modelos de machine larning: Após tratamento dos dados e escolha das features, nesse script há a aplicação dos modelos de Machine Learning e a avaliação de métricas dos mesmos. Obs.: O resultado das métricas podem ter pequenas ter variações nas casas decimais do apresentado no trabalho devido ao random state rodando em outra instância do Jupyter Notebook.</li>
 

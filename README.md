@@ -34,7 +34,7 @@ O dataset é composto por 284,807 registros, na qual 492 caracterizam fraude. O 
 
 <b> Scripts </b>
 
-O repositório está dividido em 3 scripts
+O repositório está dividido em 3 scripts, criados pela ferramenta Jupyter Notebook.
 
 <ul>
 <li>Script para tratamento de dados: Contempla as análises sobre a melhor forma de tratar os dados e o que foi considerado para a escolha das técnicas;</li>
